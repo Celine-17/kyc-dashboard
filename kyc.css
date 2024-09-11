@@ -10,7 +10,7 @@ header {
   max-width: 1200px;
   margin: 0 auto;
 }
-.header-left {
+header div {
   display: flex;
   gap: 1rem;
   align-items: center;
